@@ -1,0 +1,13 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#phone {
+    margin: 200px auto;
+    display: block;
+    padding: 10px 20px;
+    font-size: 22px;
+    border: 2px solid #ddd;
+    outline-color: #aaa;
+}
